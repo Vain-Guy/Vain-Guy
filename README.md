@@ -1,73 +1,43 @@
-# 🗨️ Norman Mwapea — Data Scientist | AI & ML Explorer  
+# 🗨️ Norman Mwapea — The Data Guy Who Turns Chaos into Clarity
 
-Hi, I’m Norman 👋 — a **data scientist who thrives on messy datasets, challenging problems, and insights that actually matter**.  
-I turn raw data into actionable intelligence, predictive models, and narratives that make sense to humans and machines alike.  
+Hi there 👋, I’m **Norman Mwapea** — Data Scientist 📊 | Machine Learning Engineer 🤖 | AI Prompting Specialist 🔮  
+I live where data meets curiosity and patterns whisper stories.  
 
----
+## 🔦 About Me
+- 🔭 Currently working on **conflict modeling**, **risk analysis**, and **social media addiction analytics**.
+- 🌱 Leveling up in **machine learning optimization**, **advanced statistical modeling**, and **AI systems deployment**.
+- 👯 Looking to collaborate on **AI, data science, and predictive modeling** projects that make real-world impact.
+- 💡 Strong believer in using data for **innovation, education, and community development**.
+- 😄 Pronouns: He/Him.
 
-## 🔭 What I’m Working On  
-- Predictive Modeling & AI experiments  
-- Data-driven research in education, social behavior, and conflict analysis  
-- Feature engineering, data visualization, and building actionable dashboards  
+## 🚀 Featured Projects
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Data’s Cut**](https://github.com/Vain-Guy/Data-s-Cut) | Analytics on movies from multiple sources to find ROI sweet spots & release timing strategies. | Python, Pandas, Seaborn, Plotly |
+| [**Scroll Tap Regret**](https://github.com/Vain-Guy/Scroll-Tap-Regret) | Logistic regression model predicting academic impact from social media addiction. | Python, scikit-learn, Pandas |
+| [**Mapping Africa's Conflict Relationships**](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships) | Network & geospatial analysis of conflict actors across Africa. | Python, Geopandas, NetworkX, Plotly |
+| [**Aero Intel**](https://github.com/Vain-Guy/Aero-Intel) | Aviation risk assessment and incident trend analysis. | Python, Pandas, Matplotlib, Plotly |
 
-## 📚 Featured Projects  
+## 🛠️ My Skills
 
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| [**Data's Cut**](https://github.com/Vain-Guy/Data-s-Cut) | Movie analytics: audience trends, budget sweet spots, release timing insights. | Python, Pandas, Matplotlib, Seaborn |
-| [**Scroll-Tap-Regret**](https://github.com/Vain-Guy/Scroll-Tap-Regret) | Predicting academic impact from social media addiction using logistic regression. | Python, Scikit-learn, Pandas |
-| [**Mapping Africa’s Conflict Relationships**](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships) | Mapping alliances, enmities, and conflict intensity across Africa. | Python, NetworkX, Geopandas, Folium |
-| [**Aero-Intel**](https://github.com/Vain-Guy/Aero-Intel) | Aviation risk analysis & safety trend detection. | Python, Pandas, Matplotlib |
+**Data Science & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Plotly, Seaborn, Matplotlib  
+**Data Engineering & Analysis:** SQL, Excel (Advanced), Feature Engineering, Predictive Modeling  
+**AI Prompting & NLP:** Prompt Engineering, LLM Integration, Text Analytics  
+**Visualization & Storytelling:** Plotly, Matplotlib, Seaborn  
+**Version Control & Collaboration:** Git, GitHub  
+**Other:** Azure (Data Services), Machine Learning Deployment (FastAPI)
 
----
+## 📊 GitHub Stats
 
-## 🛠 Skills & Tools  
+![Norman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Norman%20Mwapea's%20GitHub%20Stats)
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=tokyonight&langs_count=6&hide=C%2B%2B)
 
-**Machine Learning & AI:**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+## 🌐 Find Me Online
+- **LinkedIn:** [linkedin.com/in/norman-mwapea-49502a264](https://www.linkedin.com/in/norman-mwapea-49502a264/)
+- **Substack:** [Unsupervised Thoughts](https://unsupervisedthoughts1.substack.com/publish/home)
+- **GitHub:** [Vain-Guy](https://github.com/Vain-Guy)
 
-**Data & Visualization:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)  
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-
----
-
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
-[![Substack](https://img.shields.io/badge/-Substack-black?style=for-the-badge&logo=substack)](https://unsupervisedthoughts1.substack.com/publish/home)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vain-Guy)  
-
----
-
-## 📊 GitHub Stats  
-
-![Norman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vain-Guy&theme=tokyonight)  
-![Profile Views](https://komarev.com/ghpvc/?username=Vain-Guy&label=Profile%20Views&color=blue&style=flat)  
-
----
-
-## ⚡ Fun Fact  
-
-I turn **late-night peanut butter snacks** and **blaring playlists** into **machine learning insights**.  
-Midnight meltdowns? Just part of the process.  
-
----
-
+💬 *"Data never lies. It just waits for someone curious enough to ask the right questions."*
