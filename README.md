@@ -1,47 +1,67 @@
-# 👋 Hey, I’m Norman Mwapea  
+# 👋 Hey, I’m Norman 
+**Data Scientist & Analyst | Machine Learning Engineer | Web Developer**  
 
-🎯 **Data Scientist | Machine Learning Engineer | AI Prompting Specialist**  
-Turning raw, messy data into insight-packed stories — and doing it with style.    
+I turn messy datasets into sharp, decision-driving insights. My work blends machine learning, data visualization, and storytelling to help people understand **not just the numbers — but the meaning behind them**.  
 
-## 🧠 What I Do Best
-- **Data Analysis & Modeling** – Python (Pandas, NumPy, Scikit-learn, Statsmodels)  
-- **Machine Learning** – Predictive analytics, classification, regression, clustering   
-- **Visualisation** – Plotly, Matplotlib, Seaborn (because insights deserve to look good)  
-- **AI Prompting & Automation** – Extracting precision out of generative models  
+Whether it’s predicting academic performance from social media habits, mapping complex conflict relationships across Africa, or dissecting the economics of cinema, I aim for **impact** — solutions that are as practical as they are insightful.  
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL  
-**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Statsmodels, Plotly, Matplotlib, Seaborn  
-**Specialties:** Machine Learning, Data Cleaning, Feature Engineering, Statistical Modeling  
-**Other Tools:** Git, GitHub, Jupyter Notebooks, Anaconda, VS Code 
+When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts (Substack)](https://unsupervisedthoughts1.substack.com) — because insights should be shared, not hidden in a spreadsheet.  
 
-## 📌 Featured Projects
 
-### 🎬 [Data's Cut](https://github.com/Vain-Guy/Data-s-Cut)  
-**Movie Analytics for Fiction Studio** – Analyzing IMDb, Box Office Mojo, Rotten Tomatoes, TMDb, and The Numbers to identify content trends, ROI sweet spots, and release timing strategies.
+## 🚀 Featured Projects  
 
-### 📱 [Scroll Tap Regret](https://github.com/Vain-Guy/Scroll-Tap-Regret)  
-**Student Social Media Addiction Study** – Logistic regression model predicting academic impact from social media usage patterns.
+### 🎬 [Data’s Cut](https://github.com/Vain-Guy/Data-s-Cut)  
+*Movie industry analytics & insights — without the Hollywood fluff.*  
+- Analyzed datasets from IMDb, TMDb, Box Office Mojo, The Numbers, and Rotten Tomatoes.  
+- Identified trends in audience preferences, budget sweet spots, and optimal release windows.  
+- Tools: **Python, Pandas, Matplotlib, Plotly**  
 
-### 🌍 [Mapping Africa's Conflict Relationships](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships)  
-**Conflict Relationship Mapping** – ACLED dataset analysis, geo-aggregation, and actor relationship classification.
+
+### 📱 [Scroll-Tap-Regret](https://github.com/Vain-Guy/Scroll-Tap-Regret)  
+*Predicting academic impact from social media addiction.*  
+- Binary classification using **Logistic Regression**.  
+- Feature engineering on usage patterns, engagement metrics, and academic performance indicators.  
+- Tools: **Python, Scikit-learn, Pandas, Seaborn, Matplotlib**  
+
+
+### 🌍 [Mapping Africa’s Conflict Relationships](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships)  
+*Political conflict isn’t just events — it’s relationships.*  
+- Mapped conflict actor alliances and oppositions using ACLED data.  
+- Built interactive network graphs to visualize regional dynamics.  
+- Tools: **Python, NetworkX, Plotly, Pandas**  
+
 
 ### ✈️ [Aero Intel](https://github.com/Vain-Guy/Aero-Intel)  
-**Aviation Risk Analysis** – Flight data modeling to assess safety risks and identify the safest aircraft to inform on strategic aircraft procurement for a fictional company.
+*Aviation risk analysis that goes beyond incident counts.*  
+- Analyzed aviation safety data to identify risk patterns and high-risk routes.  
+- Visualized findings with interactive dashboards.  
+- Tools: **Python, Plotly, Pandas, Matplotlib**  
 
-## 📊 My GitHub Stats
+
+## 📊 GitHub Stats  
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vain-Guy&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+  
+![Norman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&hide_border=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=css,scss,html)  
 
 </div>
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://unsupervisedthoughts1.substack.com/)  
+
+## 🛠️ Skills & Tools  
+
+**Languages & Frameworks:** Python, Django, HTML, CSS, JavaScript  
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Plotly, Matplotlib, Seaborn  
+**Databases:** MySQL, SQLite  
+**Other Skills:** AI Prompting, Data Visualization, Statistical Analysis, API Development  
 
 
-💡 *"Find what you love and let it teach you everything it knows."*
+## 🌐 Find Me Online  
+
+- **LinkedIn:** [Norman Mwapea](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
+- **GitHub:** [Vain-Guy](https://github.com/Vain-Guy)  
+- **Substack:** [Unsupervised Thoughts](https://unsupervisedthoughts1.substack.com)  
+
+
+
+> *“Data without context is just noise. My job is to make sure it speaks clearly — and powerfully.”*
