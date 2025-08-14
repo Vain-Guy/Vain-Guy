@@ -34,7 +34,7 @@ When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts 
 ### ✈️ [Aero Intel](https://github.com/Vain-Guy/Aero-Intel)  
 *Aviation risk analysis that goes beyond incident counts.*  
 - Analyzed aviation safety data to identify risk patterns and high-risk routes.  
-- Visualized findings with interactive dashboards.  
+- Visualized findings with an interactive dashboard.  
 - Tools: **Python, Plotly, Pandas, Matplotlib**  
 
 
@@ -50,15 +50,15 @@ When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts 
 
 ## 🛠️ Skills & Tools  
 
-**Languages & Frameworks:** Python, Django, HTML, CSS, JavaScript  
+**Languages & Frameworks:** Python, Django, HTML, CSS
 **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Plotly, Matplotlib, Seaborn  
-**Databases:** MySQL, SQLite  
-**Other Skills:** AI Prompting, Data Visualization, Statistical Analysis, API Development  
+**Databases:** SQLite  
+**Other Skills:** AI Prompting, Data Visualization, Statistical Analysis
 
 
 ## 🌐 Find Me Online  
 
-- **LinkedIn:** [Norman Mwapea](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
+- **LinkedIn:** [Norman](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
 - **GitHub:** [Vain-Guy](https://github.com/Vain-Guy)  
 - **Substack:** [Unsupervised Thoughts](https://unsupervisedthoughts1.substack.com)  
 
