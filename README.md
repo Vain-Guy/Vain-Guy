@@ -1,17 +1,17 @@
 # 👋 Hey, I’m Norman 
 **Data Scientist & Analyst | Machine Learning Engineer | Web Developer**  
 
-I turn messy datasets into sharp, decision-driving insights. My work blends machine learning, data visualization, and storytelling to help people understand **not just the numbers — but the meaning behind them**.  
+I turn messy datasets into sharp, decision-driving insights. My work blends machine learning, data visualization, and storytelling to help people understand **not just the numbers, but the meaning behind them**.  
 
-Whether it’s predicting academic performance from social media habits, mapping complex conflict relationships across Africa, or dissecting the economics of cinema, I aim for **impact** — solutions that are as practical as they are insightful.  
+Whether it’s predicting academic performance from social media habits, mapping complex conflict relationships across Africa, or dissecting the economics of cinema, I aim for impact: solutions that are as practical as they are insightful.  
 
-When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts (Substack)](https://unsupervisedthoughts1.substack.com) — because insights should be shared, not hidden in a spreadsheet.  
+When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts (Substack)](https://unsupervisedthoughts1.substack.com); because insights should be shared, not hidden in a spreadsheet.  
 
 
 ## 🚀 Featured Projects  
 
 ### 🎬 [Data’s Cut](https://github.com/Vain-Guy/Data-s-Cut)  
-*Movie industry analytics & insights — without the Hollywood fluff.*  
+*Movie industry analytics & insight*  
 - Analyzed datasets from IMDb, TMDb, Box Office Mojo, The Numbers, and Rotten Tomatoes.  
 - Identified trends in audience preferences, budget sweet spots, and optimal release windows.  
 - Tools: **Python, Pandas, Matplotlib, Plotly**  
@@ -25,7 +25,7 @@ When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts 
 
 
 ### 🌍 [Mapping Africa’s Conflict Relationships](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships)  
-*Political conflict isn’t just events — it’s relationships.*  
+*Political conflict isn’t just events, it’s relationships.*  
 - Mapped conflict actor alliances and oppositions using ACLED data.  
 - Built interactive network graphs to visualize regional dynamics.  
 - Tools: **Python, NetworkX, Plotly, Pandas**  
@@ -64,4 +64,4 @@ When I’m not wrangling data, I’m writing about it on [Unsupervised Thoughts 
 
 
 
-> *“Data without context is just noise. My job is to make sure it speaks clearly — and powerfully.”*
+> *“Data without context is just noise. My job is to make sure it speaks clearly, and powerfully.”*
