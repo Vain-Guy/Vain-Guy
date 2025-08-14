@@ -15,14 +15,11 @@ Projects Open for Contribution
 - **Social Media Academic Impact Study** – Predicting academic trends from social media addiction 📈  
 - **Movie Insights Dashboard** – Movie ROI, trends, and chaos theory applied 🎬  
 - **School Management System** – Full-stack Django platform to run schools efficiently 🏫  
-- **Swahilipot Analytics** – Community-level data analysis and visualization 📊  
 
 Find Me:
 🔦 Profiles:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norman-mwapea) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norman-mwapea)  
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@norman)  
-[![Upwork](https://img.shields.io/badge/-Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01xxxxxx)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/norman)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nmwapea)  
 
 My Skills: 🚀
