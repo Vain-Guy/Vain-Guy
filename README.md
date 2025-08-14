@@ -39,5 +39,4 @@ I live where data meets curiosity and patterns whisper stories.
 - **Substack:** [Unsupervised Thoughts](https://unsupervisedthoughts1.substack.com/publish/home)
 - **GitHub:** [Vain-Guy](https://github.com/Vain-Guy)
 
-
 💬 *"Data never lies. It just waits for someone curious enough to ask the right questions."*
