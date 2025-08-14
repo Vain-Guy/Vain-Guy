@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Norman 
-**Data Scientist & Analyst | Machine Learning Engineer | Web Developer**  
+**Data Scientist & Analyst | Machine Learning Engineer**  
 
 I turn messy datasets into sharp, decision-driving insights. My work blends machine learning, data visualization, and storytelling to help people understand **not just the numbers, but the meaning behind them**.  
 
