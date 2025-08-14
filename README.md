@@ -1,42 +1,49 @@
-# 🗨️ Norman Mwapea — The Data Guy Who Turns Chaos into Clarity
+# 👋 Hey, I’m Norman Mwapea  
 
-Hi there 👋, I’m **Norman Mwapea** — Data Scientist 📊 | Machine Learning Engineer 🤖 | AI Prompting Specialist 🔮  
-I live where data meets curiosity and patterns whisper stories.  
+🎯 **Data Scientist | Machine Learning Engineer | AI Prompting Specialist**  
+Turning raw, messy data into insight-packed stories — and doing it with style.  
+No dashboards-for-the-sake-of-dashboards, no buzzword fluff — just results that matter.  
 
-## 🔦 About Me
-- 🔭 Currently working on **conflict modeling**, **risk analysis**, and **social media addiction analytics**.
-- 🌱 Leveling up in **machine learning optimization**, **advanced statistical modeling**, and **AI systems deployment**.
-- 👯 Looking to collaborate on **AI, data science, and predictive modeling** projects that make real-world impact.
-- 💡 Strong believer in using data for **innovation, education, and community development**.
-- 😄 Pronouns: He/Him.
+## 🧠 What I Do Best
+- **Data Analysis & Modeling** – Python (Pandas, NumPy, Scikit-learn, Statsmodels)  
+- **Machine Learning** – Predictive analytics, classification, regression, clustering  
+- **Natural Language Processing** – Text mining, sentiment analysis, keyword extraction  
+- **Visualisation** – Plotly, Matplotlib, Seaborn (because insights deserve to look good)  
+- **AI Prompting & Automation** – Extracting precision out of generative models  
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Statsmodels, Plotly, Matplotlib, Seaborn  
+**Specialties:** Machine Learning, Data Cleaning, Feature Engineering, Statistical Modeling  
+**Other Tools:** Git, GitHub, Jupyter Notebooks, Anaconda  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Data’s Cut**](https://github.com/Vain-Guy/Data-s-Cut) | Analytics on movies from multiple sources to find ROI sweet spots & release timing strategies. | Python, Pandas, Seaborn, Plotly |
-| [**Scroll Tap Regret**](https://github.com/Vain-Guy/Scroll-Tap-Regret) | Logistic regression model predicting academic impact from social media addiction. | Python, scikit-learn, Pandas |
-| [**Mapping Africa's Conflict Relationships**](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships) | Network & geospatial analysis of conflict actors across Africa. | Python, Geopandas, NetworkX, Plotly |
-| [**Aero Intel**](https://github.com/Vain-Guy/Aero-Intel) | Aviation risk assessment and incident trend analysis. | Python, Pandas, Matplotlib, Plotly |
+## 📌 Featured Projects
 
-## 🛠️ My Skills
+### 🎬 [Data's Cut](https://github.com/Vain-Guy/Data-s-Cut)  
+**Movie Analytics for Fiction Studio** – Analyzing IMDb, Box Office Mojo, Rotten Tomatoes, and The Numbers to identify content trends, ROI sweet spots, and release timing strategies.
 
-**Data Science & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Plotly, Seaborn, Matplotlib  
-**Data Engineering & Analysis:** SQL, Excel (Advanced), Feature Engineering, Predictive Modeling  
-**AI Prompting & NLP:** Prompt Engineering, LLM Integration, Text Analytics  
-**Visualization & Storytelling:** Plotly, Matplotlib, Seaborn  
-**Version Control & Collaboration:** Git, GitHub  
-**Other:** Azure (Data Services), Machine Learning Deployment (FastAPI)
+### 📱 [Scroll Tap Regret](https://github.com/Vain-Guy/Scroll-Tap-Regret)  
+**Student Social Media Addiction Study** – Logistic regression model predicting academic impact from social media usage patterns.
 
-## 📊 GitHub Stats
+### 🌍 [Mapping Africa's Conflict Relationships](https://github.com/Vain-Guy/Mapping-Africa-s-Conflict-Relationships)  
+**Conflict Relationship Mapping** – ACLED dataset analysis, geo-aggregation, and actor relationship classification.
 
-![Norman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Norman%20Mwapea's%20GitHub%20Stats)
+### ✈️ [Aero Intel](https://github.com/Vain-Guy/Aero-Intel)  
+**Aviation Risk Analysis** – Flight data modeling to assess safety risks and identify operational patterns.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=tokyonight&langs_count=6&hide=C%2B%2B)
+## 📊 My GitHub Stats
 
-## 🌐 Find Me Online
-- **LinkedIn:** [linkedin.com/in/norman-mwapea-49502a264](https://www.linkedin.com/in/norman-mwapea-49502a264/)
-- **Substack:** [Unsupervised Thoughts](https://unsupervisedthoughts1.substack.com/publish/home)
-- **GitHub:** [Vain-Guy](https://github.com/Vain-Guy)
+<div align="center">
 
-💬 *"Data never lies. It just waits for someone curious enough to ask the right questions."*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vain-Guy&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vain-Guy&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vain-Guy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+</div>
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norman-mwapea-49502a264/)  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://unsupervisedthoughts1.substack.com/)  
+
+
+💡 *"Find what you love and let it teach you everything it knows."*
