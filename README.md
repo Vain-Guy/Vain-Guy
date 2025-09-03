@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Norman 
+# Finally, you found me
 **Data Scientist & Analyst | Machine Learning Engineer**  
 
 I turn messy datasets into sharp, decision-driving insights. My work blends machine learning, data visualization, and storytelling to help people understand **not just the numbers, but the meaning behind them**.  
